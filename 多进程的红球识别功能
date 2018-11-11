@@ -1,4 +1,5 @@
 # encoding: UTF-8
+# 此功能因为时间原因，没有加入到最终的程序中
 from multiprocessing import Process, Pool, Queue
 import os
 import time
